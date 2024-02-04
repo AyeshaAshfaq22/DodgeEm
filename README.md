@@ -22,17 +22,6 @@ https://github.com/AyeshaAshfaq22/DodgeEm.git
 
 cd DODGE-EM 
 
- 
- ## DODGE-EM | Setup Instructions 
-
-1.clone this repositary
-
-https://github.com/AyeshaAshfaq22/DodgeEm.git
-
-2.Navigate to the Project Directory
-
-cd DODGE-EM 
-
 
 ## DODGE-EM | SnapShots
 
