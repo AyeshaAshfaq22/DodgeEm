@@ -14,13 +14,15 @@ DodgeEm is an exciting arcade-style game where players control a character tryin
  
  ## DODGE-EM | Setup Instructions 
 
-1.clone this repositary
+1. Clone This Repository
+   ```sh
+   https://github.com/AyeshaAshfaq22/DODGE-EM.git
 
-https://github.com/AyeshaAshfaq22/DodgeEm.git
-
-2.Navigate to the Project Directory
-
-cd DODGE-EM 
+ 
+2. Install NPM Packages
+   ```sh
+   npm install 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ## DODGE-EM | SnapShots
