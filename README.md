@@ -27,6 +27,21 @@ DodgeEm is an exciting arcade-style game where players control a character tryin
 
 ## DODGE-EM | SnapShots
 
+### 1.Landing Page:
+![image](https://github.com/AyeshaAshfaq22/DodgeEm/assets/158320332/d546c9aa-f097-4883-8024-a208379ee3a0)
+
+### 2.Game play:
+![image](https://github.com/AyeshaAshfaq22/DodgeEm/assets/158320332/2490bc10-b577-4c93-8073-862eaa776f4e)
+
+### 3.Game over Screen:
+![image](https://github.com/AyeshaAshfaq22/DodgeEm/assets/158320332/d177a262-c399-4b1d-b78d-9f62445ea3d7)
+
+### 4.High Score Board:
+![image](https://github.com/AyeshaAshfaq22/DodgeEm/assets/158320332/a3c72f07-6506-4ebe-935b-e96e975b9153)
+
+### 4.Help Section:
+![image](https://github.com/AyeshaAshfaq22/DodgeEm/assets/158320332/0214c433-a640-4f45-962b-50512cef6a3a)
+
 
 <p align="center"> © 2024 Ayesha ashfaq, All Rights Reserved. </p>
 <p align="center">
