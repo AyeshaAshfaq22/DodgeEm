@@ -19,7 +19,7 @@ DodgeEm is an exciting arcade-style game where players control a character tryin
    https://github.com/AyeshaAshfaq22/DODGE-EM.git
 
  
-2. Install NPM Packages
+2. Install Dependencies
    ```sh
    npm install 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
